@@ -1,0 +1,9 @@
+# Pregunta 5
+echo "1. Buscar la información"
+echo "2. Revisar la fuente"
+echo "3. Confirmar la noticia"
+echo "4. Comparar con otras fuentes"
+echo "5. Verificar fecha y autor"
+echo "6. Compartir solo si es confiable"
+echo "7. Citar la fuente original"
+echo "8. Reportar información falsa"

@@ -1,0 +1,11 @@
+name": "semana4",
+"version": "1.0.0",
+"description": "Actividad semana 4 Node.js y Express",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"author": "Paula Andrea Mendez Vidal",
+"license": "ISC",
+"dependencies": {
+"express": "^4.21.2"
