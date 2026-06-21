@@ -1,0 +1,1 @@
+Ejemplo de JSON para reportar una incidencia:{Ê "tipo": "Da–o en la v’a pœblica",Ê "descripcion": "Los vecinos informan que existe un hueco de gran tama–o sobre la calle principal, lo que representa un riesgo para conductores y peatones."}
