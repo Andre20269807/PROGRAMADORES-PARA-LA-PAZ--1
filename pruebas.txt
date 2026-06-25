@@ -1,0 +1,13 @@
+Prueba 1:
+Al ingresar a la ruta http://localhost:3000 aparece el mensaje “Servidor activo”, 
+indicando que el servidor funciona correctamente.
+
+Prueba 2:
+Al ingresar a la ruta http://localhost:3000/saludo el servidor responde con el mensaje “Hola comunidad”.
+
+Prueba 3:
+Al ingresar a la ruta http://localhost:3000/mensaje/juan el servidor muestra el mensaje “Hola juan”,
+ tomando el nombre enviado en la URL como parámetro dinámico.
+
+Estas pruebas permiten verificar que las rutas GET están funcionando correctamente 
+y que el servidor responde según la dirección solicitada.

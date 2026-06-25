@@ -1,0 +1,9 @@
+Es importante que un desarrollador sepa usar la terminal para navegar y organizar archivos dentro de un proyecto porque le permite trabajar de manera más rápida, eficiente y con mayor control sobre la estructura del sistema; 
+a través de comandos puede moverse entre carpetas, crear, modificar o eliminar archivos en segundos, 
+evitando depender de interfaces gráficas más lentas, 
+además de facilitar la automatización de tareas repetitivas y 
+el uso de herramientas esenciales como Git o gestores de paquetes, 
+que funcionan principalmente desde la terminal; asimismo,
+esta habilidad ayuda a comprender mejor la organización del proyecto, 
+prevenir errores y resolver problemas técnicos con mayor facilidad, 
+lo que la convierte en una competencia fundamental para un desempeño profesional en el desarrollo de software.
