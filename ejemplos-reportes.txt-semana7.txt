@@ -1,0 +1,1 @@
+Ejemplo 1:  "tipo": "Movilidad",  "descripcion": "Un sem‡foro de la avenida principal permanece apagado desde la noche anterior."Ejemplo 2:  "tipo": "Espacio pœblico",  "descripcion": "Se reporta acumulaci—n de basura en el parque del barrio, lo que genera malos olores y afecta a los vecinos."
