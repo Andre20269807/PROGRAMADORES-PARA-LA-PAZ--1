@@ -1,0 +1,9 @@
+Pregunta 5
+1.Buscar la información
+2.Revisar la fuente
+3.Confirmar la noticia
+4.Comparar con otras fuentes
+5.Verificar fecha y autor
+6.Compartir solo si es confiable
+7.Citar la fuente original
+8.Reportar información falsa

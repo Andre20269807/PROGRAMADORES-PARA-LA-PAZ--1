@@ -1,0 +1,6 @@
+Pregunta4El uso responsable de la información en internet permite compartir contenido verificado y útil.
+ Esto fortalece la participación ciudadana porque las personas pueden opinar y actuar con base en datos reales. 
+Además, herramientas como Git ayudan a organizar el trabajo técnico de forma ordenada. 
+Git permite guardar cambios, trabajar en equipo y mantener control de versiones.
+Tanto en internet como en el desarrollo tecnológico son importantes la responsabilidad, la colaboración y la transparencia. Estas prácticas mejoran la confianza y la productividad digital
+
